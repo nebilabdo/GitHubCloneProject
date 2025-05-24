@@ -1,2 +1,3 @@
-Changes from the main branch  
-Changes from the feature-greeting branch
+Objective: Practice creating branches...
+Modification in main branch.
+Modification in feature-greeting branch.
